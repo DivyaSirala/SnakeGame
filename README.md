@@ -14,7 +14,7 @@ To run this game, you need to have Python and Pygame installed on your system.
     pip install pygame
     ```
 
-3. **Download the Game**: You can download the game executable (`.exe`) file from the following link: [SnakeGame.exe](link-to-exe-file).
+3. **Download the Game**: You can download the game executable (`.exe`) file from the following link: [SnakeGame.exe](https://github.com/DivyaSirala/SnakeGame/blob/new_branch/output/main/SnakeGame.exe).
 
 ## How to Play
 
